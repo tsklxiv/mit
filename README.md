@@ -1,4 +1,4 @@
-# `mit` - Geenrate the MIT license right in the CLI
+# `mit` - Generate the MIT license right in the CLI
 
 As the name suggested, `mit` generate the MIT license right in your terminal, without using the browser
 to search for it.
